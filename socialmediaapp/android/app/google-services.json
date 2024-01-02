@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37048842296",
+    "project_id": "jaishiv-e5c7a",
+    "storage_bucket": "jaishiv-e5c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37048842296:android:775974ccb8a6d8e9d48ecd",
+        "android_client_info": {
+          "package_name": "com.jaishivtech.socialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18Cw544_RwES851EldZRgKDaKewJraxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
